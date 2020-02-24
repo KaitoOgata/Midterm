@@ -1,7 +1,7 @@
 //
 import java.util.*;
 
-public class Ant {
+public class Problem1 {
     public static void main(String[] args) {
     	int count = 1;
     	for (int i = 1; i <= 6; i++ ) {
